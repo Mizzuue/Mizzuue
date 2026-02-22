@@ -3,8 +3,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </p>
 
-<h1 align="center">Hi 👋, I'm USERNAME</h1>
-<h3 align="center">🚀 Fullstack Developer | ⚡ Tech Enthusiast | 🎯 Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Mizzuu</h1>
+<h3 align="center">🚀 Lowstack Developer | ⚡ Tech Enthusiast | 🎯 Problem Solver</h3>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -50,7 +50,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Mizzuue/Mizzuue/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/USERNAME">
+  <a href="https://instagram.com/mizzuu.css">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/USERNAME">
