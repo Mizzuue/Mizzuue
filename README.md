@@ -16,7 +16,7 @@
 ## 🧑‍💻 About Me
 
 - 🌱 I’m currently learning **Express.js**
-- 💬 Ask me about **JavaScript, Node.js, React**
+- 💬 Ask me about **JavaScript, Node.js**
 - ⚡ Fun fact: I debug with console.log 😆
 
 ---
@@ -24,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,html,css,tailwind,git,github" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mizzuue&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizzuue&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Mizzuue&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -60,24 +60,18 @@
   <a href="https://instagram.com/mizzuu.css">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  <a href="https://wa.me/6281359932022">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+  </a> 
+  <a href="https://mizzuue.my.id">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /> 
+  </a> 
 </p>
 
----
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
 
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/USERNAME">USERNAME</a>
+  &copy; <a href="https://github.com/Mizzuue">Copyright Mizzuue - 2026</a>
 </p>
